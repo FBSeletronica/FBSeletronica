@@ -27,7 +27,7 @@ Olá, eu Fábio Souza, Maker de nascença e Engenheiro por formação. Atualment
 
 Sou apaixonado por educação, atuo profissionalmente como diretor do [Portal Embarcados](https://www.embarcados.com.br/) e como professor de eletrônica e sistemas embarcados como para graduação, pós-graduação, cursos livres na Udemy e também em cursos exclusivos para empresas.
 
-Sou entusiastas do movimento maker, da cultura DIY e do compartilhamento de conhecimento, publica diversos artigos sobre eletrônica e projetos open hardware.Com iniciativas como o projeto Franzininho e projetos na área de educação, leva a cultura maker para o Brasil capacitando e incentivando professores e alunos a usarem tecnologia em suas vidas.
+Sou entusiastas do movimento maker, da cultura DIY e do compartilhamento de conhecimento, publico artigos sobre eletrônica e projetos open hardware com foco em educação.Com iniciativas como o projeto Franzininho e projetos na área de educação, leva a cultura maker para o Brasil capacitando e incentivando professores e alunos na área de sistemas embarcados e IoT.
 
 
 
@@ -50,7 +50,7 @@ Confira os meus cursos online.
 - [Aprenda Arduino usando o simulador Tinkercad](https://www.udemy.com/course/aprenda-arduino-usando-o-simulador-tinkercad/?referralCode=A3AC6377F76F8DEC5F9F)
 
 ## 📰Artigos, tutoriais e projetos
-Eu escrevo artigos, tuotirias e divulgo projetos nos canais abaixo:
+Eu escrevo artigos, tutorias e divulgo projetos nos canais abaixo:
 - [Youtube](https://www.youtube.com/channel/UCPrc3wf0Rib6_BXqbTyuY2Q)
 - [Artigos no Embarcados](https://www.embarcados.com.br/author/fabio-souza/)
 - [medium](https://medium.com/fabio-souza)
@@ -59,7 +59,7 @@ Eu escrevo artigos, tuotirias e divulgo projetos nos canais abaixo:
 - [Hackster.io](https://www.hackster.io/fabiosouza)
 
 ## 🚀Organizações
-Empresas e projetos que estou atuando:
+Empresa e projetos que estou atuando:
 - [Embarcados](https://www.embarcados.com.br/)
 - [Franzininho](https://franzininho.com.br/)
 - [Escola 4.0 ](https://www.escola4pontozero.com.br/)
@@ -68,8 +68,6 @@ Empresas e projetos que estou atuando:
 Fique a vontade para entrar em contato:
 - e-mail: contato@fabiosouza.org
 - site:   [fabiosouza.org](https://fabiosouza.org)
-- Instagram: [@fabiosouza.io](https://www.instagram.com/fabiosouza.io)
-- [Linkedin](https://www.linkedin.com/in/engfabiosouza/)
 
 
 <p align='center'>
