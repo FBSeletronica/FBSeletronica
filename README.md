@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# [![Fabio souza Banner](/imagens/banner.png)](https://waylonwalker.com)
+# [![Fabio souza Banner](https://raw.githubusercontent.com/FBSeletronica/FBSeletronica/master/imagens/banner.png)](https://fabiosouza.org/)
 <p align='center'>
 <a href="https://www.youtube.com/user/FBS750?sub_confirmation=1"><img height="30" src="/imagens/icon-youtube-verde.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/engfabiosouza/"><img height="30" src="/imagens/icon-linkedin-verde.png"></a>&nbsp;&nbsp;
