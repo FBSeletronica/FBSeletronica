@@ -48,6 +48,7 @@ Confira os meus cursos online.
 - [Primeiros passos com FreeRTOS](https://www.udemy.com/course/primeiros-passos-com-o-freertos/?referralCode=6AA6F6169B55A1CF24F1)
 - [Controle dispositivos remotamente com ESP8266​](https://www.udemy.com/course/controle-dispositivos-remotamente-com-esp8266/?referralCode=2BBA36D2790D6B884D3A)
 - [Aprenda Arduino usando o simulador Tinkercad](https://www.udemy.com/course/aprenda-arduino-usando-o-simulador-tinkercad/?referralCode=A3AC6377F76F8DEC5F9F)
+- [SlideShare](https://www.slideshare.net/FabioSouza9)
 
 ## 📰Artigos, tutoriais e projetos
 Eu escrevo artigos, tutorias e divulgo projetos nos canais abaixo:
