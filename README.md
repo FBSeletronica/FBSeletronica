@@ -58,6 +58,16 @@ Eu escrevo artigos, tutorias e divulgo projetos nos canais abaixo:
 - [FBSeletronica](https://fbseletronica.wordpress.com/)
 - [Hackster.io](https://www.hackster.io/fabiosouza)
 
+## Ebooks
+- [Controle Dispositivos Remotamente com o ESP8266](https://mailchi.mp/10dbb5f2b1df/ebook-esp8266)
+- [Primeiros passos com Arduino](http://bit.ly/ebook-arduino-1)
+- [Primeiros passos com a Micro:bit](https://medium.com/fabio-souza/ebook-primeiros-passos-com-a-bbc-micro-bi-f5203817497d)
+- [Apostila Arduino - FBSeletronica](https://www.slideshare.net/FabioSouza9/apostila-arduino-27488918)
+
+## Livros
+- [Franzininho - Monte e programe seu próprio Arduino](https://clubedeautores.com.br/livro/franzininho)
+- [Controle Dispositivos Remotamente com o ESP8266](https://clubedeautores.com.br/livro/controle-dispositivos-remotamente-com-o-esp8266)
+
 ## 🚀Organizações
 Empresa e projetos que estou atuando:
 - [Embarcados](https://www.embarcados.com.br/)
