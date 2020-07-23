@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 # [![Fabio souza Banner](https://raw.githubusercontent.com/FBSeletronica/FBSeletronica/master/imagens/banner.png)](https://fabiosouza.org/)
 <p align='center'>
-<a href="https://www.youtube.com/user/FBS750?sub_confirmation=1"><img height="30" src="https://raw.githubusercontent.com/FBSeletronica/FBSeletronica/master/imagens/icon-youtube-verde.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/engfabiosouza/"><img height="30" src="https://raw.githubusercontent.com/FBSeletronica/FBSeletronica/master/imagens/icon-linkedin-verde.png"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/fabiosouza.io"><img height="30" src="https://raw.githubusercontent.com/FBSeletronica/FBSeletronica/master/imagens/icon-instagram-verde.png"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/fabiosouza.io/"><img height="30" src="https://raw.githubusercontent.com/FBSeletronica/FBSeletronica/master/imagens/icon-facebook-verde.png"></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/user/FBS750?sub_confirmation=1" target="_blank"><img height="30" src="https://raw.githubusercontent.com/FBSeletronica/FBSeletronica/master/imagens/icon-youtube-verde.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/engfabiosouza/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/FBSeletronica/FBSeletronica/master/imagens/icon-linkedin-verde.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/fabiosouza.io" target="_blank"><img height="30" src="https://raw.githubusercontent.com/FBSeletronica/FBSeletronica/master/imagens/icon-instagram-verde.png"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/fabiosouza.io/" target="_blank" ><img height="30" src="https://raw.githubusercontent.com/FBSeletronica/FBSeletronica/master/imagens/icon-facebook-verde.png"></a>&nbsp;&nbsp;
 </p>
 
 <p align='center'>
