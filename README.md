@@ -21,10 +21,11 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/fabiosouza.io"><img height="30" src="https://raw.githubusercontent.com/FBSeletronica/FBSeletronica/master/imagens/icon-instagram-verde.png"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/fabiosouza.io/"><img height="30" src="https://raw.githubusercontent.com/FBSeletronica/FBSeletronica/master/imagens/icon-facebook-verde.png"></a>&nbsp;&nbsp;
 </p>
-<p align='center'>
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/FabioSouza_io?label=Follow&style=social">
-</p>
 
+<p align='center'>
+<a href="mailto:contato@fabiosouza.org" target="_blank"><img src="https://img.shields.io/badge/--email?label=E-mail&logo=gmail&style=social" ></a>
+<a href="https://twitter.com/FabioSouza_io" target="_blank" ><img src="https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social"></a>
+</p>
 
 
 Olá, eu Fábio Souza, Maker de nascença e Engenheiro por formação. Atualmente sou Mestrando em Engenharia elétrica e tenho especialização em sistemas embarcados.
