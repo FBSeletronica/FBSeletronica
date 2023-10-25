@@ -96,6 +96,6 @@ Fique a vontade para entrar em contato:
 </table>
 </center>
 
-<p align='center'>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=FBSeletronica.visitor-badge">
- <p/>
+## 🦖 Minhas bagdes no Holopin 🦖
+
+[![An image of @fbseletronica's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fbseletronica)](https://holopin.io/@fbseletronica)
